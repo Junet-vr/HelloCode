@@ -1,0 +1,15 @@
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.exe
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.deps.json
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.runtimeconfig.json
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.dll
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.pdb
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.csproj.AssemblyReference.cache
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.AssemblyInfoInputs.cache
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.AssemblyInfo.cs
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.csproj.CoreCompileInputs.cache
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.dll
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\refint\Exemple004_Div.dll
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.pdb
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.genruntimeconfig.cache
+C:\Users\админ\OneDrive\Рабочий стол\Разработчик\Введение в языки програмирования\Examples\Exemple004_Div\obj\Debug\net6.0\ref\Exemple004_Div.dll

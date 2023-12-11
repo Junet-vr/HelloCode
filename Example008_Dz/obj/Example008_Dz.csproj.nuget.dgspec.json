@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example008_Dz\\Example008_Dz.csproj": {}
+    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example008_Dz\\Example008_Dz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example008_Dz\\Example008_Dz.csproj": {
+    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example008_Dz\\Example008_Dz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example008_Dz\\Example008_Dz.csproj",
+        "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example008_Dz\\Example008_Dz.csproj",
         "projectName": "Example008_Dz",
-        "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example008_Dz\\Example008_Dz.csproj",
+        "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example008_Dz\\Example008_Dz.csproj",
         "packagesPath": "C:\\Users\\админ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example008_Dz\\obj\\",
+        "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example008_Dz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\админ\\AppData\\Roaming\\NuGet\\NuGet.Config"

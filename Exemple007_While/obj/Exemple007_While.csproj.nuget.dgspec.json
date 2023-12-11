@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple007_While\\Exemple007_While.csproj": {}
+    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple007_While\\Exemple007_While.csproj": {}
   },
   "projects": {
-    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple007_While\\Exemple007_While.csproj": {
+    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple007_While\\Exemple007_While.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple007_While\\Exemple007_While.csproj",
+        "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple007_While\\Exemple007_While.csproj",
         "projectName": "Exemple007_While",
-        "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple007_While\\Exemple007_While.csproj",
+        "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple007_While\\Exemple007_While.csproj",
         "packagesPath": "C:\\Users\\админ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple007_While\\obj\\",
+        "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple007_While\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\админ\\AppData\\Roaming\\NuGet\\NuGet.Config"

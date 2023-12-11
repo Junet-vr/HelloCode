@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple005_IfElse\\Exemple005_IfElse.csproj": {}
+    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple005_IfElse\\Exemple005_IfElse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple005_IfElse\\Exemple005_IfElse.csproj": {
+    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple005_IfElse\\Exemple005_IfElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple005_IfElse\\Exemple005_IfElse.csproj",
+        "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple005_IfElse\\Exemple005_IfElse.csproj",
         "projectName": "Exemple005_IfElse",
-        "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple005_IfElse\\Exemple005_IfElse.csproj",
+        "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple005_IfElse\\Exemple005_IfElse.csproj",
         "packagesPath": "C:\\Users\\админ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple005_IfElse\\obj\\",
+        "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple005_IfElse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\админ\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple006_Base\\Exemple006_Base.csproj",
+      "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple006_Base\\Exemple006_Base.csproj",
       "projectName": "Exemple006_Base",
-      "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple006_Base\\Exemple006_Base.csproj",
+      "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple006_Base\\Exemple006_Base.csproj",
       "packagesPath": "C:\\Users\\админ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple006_Base\\obj\\",
+      "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple006_Base\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\админ\\AppData\\Roaming\\NuGet\\NuGet.Config"

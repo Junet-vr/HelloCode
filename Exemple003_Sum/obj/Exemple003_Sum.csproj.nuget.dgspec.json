@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple003_Sum\\Exemple003_Sum.csproj": {}
+    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple003_Sum\\Exemple003_Sum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple003_Sum\\Exemple003_Sum.csproj": {
+    "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple003_Sum\\Exemple003_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple003_Sum\\Exemple003_Sum.csproj",
+        "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple003_Sum\\Exemple003_Sum.csproj",
         "projectName": "Exemple003_Sum",
-        "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple003_Sum\\Exemple003_Sum.csproj",
+        "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple003_Sum\\Exemple003_Sum.csproj",
         "packagesPath": "C:\\Users\\админ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Exemple003_Sum\\obj\\",
+        "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Exemple003_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\админ\\AppData\\Roaming\\NuGet\\NuGet.Config"

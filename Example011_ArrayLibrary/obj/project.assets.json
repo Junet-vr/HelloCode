@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
       "projectName": "Example011_ArrayLibrary",
-      "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
+      "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
       "packagesPath": "C:\\Users\\админ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example011_ArrayLibrary\\obj\\",
+      "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example011_ArrayLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\админ\\AppData\\Roaming\\NuGet\\NuGet.Config"

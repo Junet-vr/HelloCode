@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example010_MethodArray\\Example010_MethodArray.csproj",
+      "projectUniqueName": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example010_MethodArray\\Example010_MethodArray.csproj",
       "projectName": "Example010_MethodArray",
-      "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example010_MethodArray\\Example010_MethodArray.csproj",
+      "projectPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example010_MethodArray\\Example010_MethodArray.csproj",
       "packagesPath": "C:\\Users\\админ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в языки програмирования\\Examples\\Example010_MethodArray\\obj\\",
+      "outputPath": "C:\\Users\\админ\\OneDrive\\Рабочий стол\\Разработчик\\Введение в ЯП\\Examples\\Example010_MethodArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\админ\\AppData\\Roaming\\NuGet\\NuGet.Config"
